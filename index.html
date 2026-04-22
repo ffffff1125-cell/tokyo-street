@@ -507,7 +507,6 @@
   </style>
 </head>
 <body>
-  <!-- 好的，這就是『Agent Skill』的精髓。我們不只是在寫程式碼，我們在設計一個『行為模式』。當你以後有新的攝影靈感時，只需要拋出主題，這個自動化腳本就會幫你完成從資料收集、Markdown 撰寫到網頁生成的全過程。現在，請開始部署這套架構。 -->
   <aside class="sidebar">
     <div>
       <div class="sidebar__brand">
@@ -519,7 +518,7 @@
       </nav>
     </div>
     <div class="sidebar__note">
-      內容來自 <code>content.md</code>，頁面由 <code>scripts/render-topic.js</code> 自動產生。你可以維持 Markdown，讓視覺模板固定而穩定。
+      內容來自 <code>content.md</code>，頁面由 GitHub Actions 自動產生。你可以專心維持 Markdown，網站會自動更新。
     </div>
   </aside>
   <main>
@@ -599,7 +598,7 @@
           <div class="eyebrow">Theme Albums</div>
           <h3>相簿</h3>
         </div>
-        <p>每個 `###` 會被轉成單張作品卡，並讀取圖片 title 中的漸層與分類屬性。</p>
+        <p>每個 <code>###</code> 會被轉成單張作品卡，並讀取圖片 title 中的漸層與分類屬性。</p>
       </div>
       <div class="portfolio-intro markdown-body"><p>相簿區塊中的每個 <code>###</code> 都代表一張作品卡。請依序填入：作品標題、圖片、簡述、攝影參數表格與心得列點。</p>
 </div>
@@ -787,7 +786,7 @@
     </section>
   
       <footer>
-        Generated from structured Markdown by the photography-web-gen workflow.
+        Generated from structured Markdown by GitHub Actions.
       </footer>
     </div>
   </main>

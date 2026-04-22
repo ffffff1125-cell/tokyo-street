@@ -1,0 +1,10 @@
+{
+  "name": "tokyo-street-site",
+  "private": true,
+  "scripts": {
+    "render": "node scripts/render-site.js"
+  },
+  "dependencies": {
+    "marked": "^15.0.12"
+  }
+}
