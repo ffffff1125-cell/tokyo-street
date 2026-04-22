@@ -28,7 +28,7 @@ social:
 
 ### 清晨月台
 
-![東京街拍：清晨月台](https://via.placeholder.com/800x600/EDF2F4/4A4A4A?text=Tokyo+Platform "gradient=mist-blue-pink; category=Tokyo Street; accent=Morning Platform")
+![東京街拍：清晨月台](./images/albums/R0007162.JPG "gradient=mist-blue-pink; category=Tokyo Street; accent=Morning Platform")
 
 把通勤人潮壓低成背景節奏，讓站在邊緣光線中的人物成為視覺重心。
 
